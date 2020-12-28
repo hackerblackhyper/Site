@@ -108,7 +108,7 @@
     <div class="sosyal">
         <a href="#" title="facebook"></a>
         <a href="#" title="twitter"></a>
-        <a href="https://www.linkedin.com/in/h%C3%BCseyin-durmu%C5%9F-268842165/" title="linkedin"></a>
+        <a href="#" title="linkedin"></a>
         <ul>
         <li><p>DOĞA</p></li>
 
